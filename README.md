@@ -44,6 +44,6 @@ To-Do-List/
 - Organizing a project into separate files
 ## 🌐 Live Demo
 
-[Click here to view the Weather App](https://sowmigasriv.github.io/My-To-Do-List/)
+[Click here to view the To-Do List](https://sowmigasriv.github.io/My-To-Do-List/)
 
 
