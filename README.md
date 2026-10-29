@@ -42,6 +42,8 @@ To-Do-List/
 - Handling user interactions using JavaScript
 - Using Local Storage to save data in the browser
 - Organizing a project into separate files
+## 🌐 Live Demo
 
+[Click here to view the Weather App](https://sowmigasriv.github.io/My-To-Do-List/)
 
 
