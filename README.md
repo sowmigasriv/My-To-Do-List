@@ -43,8 +43,5 @@ To-Do-List/
 - Using Local Storage to save data in the browser
 - Organizing a project into separate files
 
-## 👩‍💻 Author
-
-**Sowmiga Sri**
 
 
